@@ -1,4 +1,7 @@
 1. Rencana resolusi ke 1
+   - Sub Rencana 1 Resolusi ke 1
+   - Sub Rencana 2 Resolusi ke 1
+   - Sub Rencana 3 Resolusi ke 1
 2. Rencana resolusi ke 2
 3. Rencana resolusi ke 3
 4. Rencana resolusi ke 4
