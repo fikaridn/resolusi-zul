@@ -1,5 +1,6 @@
 1. Rencana resolusi ke 1
-   - Update Sub Rencana 1 Resolusi ke 1 Branch-1
+   - Update Sub Rencana 1 Resolusi ke 1 Branch-2
+   - Update Sub Rencana 2 Resolusi ke 1 Branch-2
    - Update Sub Rencana 2 Resolusi ke 1 Branch-1
    - Update Sub Rencana 3 Resolusi ke 1 Branch-1
 2. Rencana resolusi ke 2
