@@ -1,8 +1,7 @@
-1. Rencana resolusi 1 ke 1
-2. Rencana resolusi 1 ke 2
-3. Rencana resolusi 1 ke 3
-4. Rencana resolusi 1 ke 4
-5. Rencana resolusi 1 ke 5
-6. Rencana resolusi 1 ke 6
-7. Rencana resolusi 1 ke 7
-8. Rencana resolusi 1 ke 8
+1. Rencana resolusi ke 1
+2. Rencana resolusi ke 2
+3. Rencana resolusi ke 3
+4. Rencana resolusi ke 4
+5. Rencana resolusi ke 5
+6. Rencana Tambahan resolusi ke 6
+7. Rencana Tambahan resolusi ke 7
