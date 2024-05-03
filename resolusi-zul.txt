@@ -3,6 +3,10 @@
    - Update Sub Rencana 2 Resolusi ke 1 Fitur-gallery
    - Update Sub Rencana 2 Resolusi ke 1 Fitur-gallery
    - Update Sub Rencana 3 Resolusi ke 1 Fitur-gallery
+   - Update Sub Rencana 1 Resolusi ke 1 Fitur-chat
+   - Update Sub Rencana 2 Resolusi ke 1 Fitur-chat
+   - Update Sub Rencana 2 Resolusi ke 1 Fitur-chat
+   - Update Sub Rencana 3 Resolusi ke 1 Fitur-chat
 2. Rencana resolusi ke 2
    - Sub Rencana 1 Resolusi ke 2
    - Sub Rencana 2 Resolusi ke 2
